@@ -34,7 +34,7 @@ const safet = {
 
 ---
 
-**I'm an late night coder** 
+**I'm a late night coder** 
 
 ```text
 🌞 Morning         ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
