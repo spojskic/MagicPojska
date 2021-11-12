@@ -13,7 +13,8 @@
 ```javascript
 const safet = {
     pronouns: "He" | "Him",
-    bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years and completely abandoned it because I wanted to study computer science",
+    bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years
+          and completely abandoned it because I wanted to study computer science",
     code: ["Javascript", "C#", "C++", "Java", "NodeJS"],
     askMeAbout: ["web dev", "tech", "app dev", "full-stack"],
     technologies: {
