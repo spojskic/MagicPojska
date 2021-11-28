@@ -16,17 +16,17 @@ const safet = {
     bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years
           and completely abandoned it because I wanted to study computer science",
     code: ["Javascript", "C#", "C++", "Java", "NodeJS"],
-    askMeAbout: ["web dev", "tech", "app dev", "full-stack"],
+    askMeAbout: ["web dev", "tech", "video games", "full-stack"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"],
-            css: ["Tailwind", "MaterialUI", "bootstrap"]
+            js: ["React.js", "Next.js"],
+            css: ["Tailwind", "MaterialUI", "bootstrap", "SCSS"]
         },
         backEnd: {
-            js: ["node", "express", "java", "spring boot"],
+            js: ["node", "express", "spring boot"],
         },
         databases: ["mongo", "MySql", "MSSQL"],
-        misc: ["Firebase", "Strapi", "OAuth"]
+        misc: ["Firebase", "Strapi", "OAuth", "Git"]
     },
     funFact: "The first computer “bug” was an actual real-life bug"
 };
@@ -44,3 +44,8 @@ const safet = {
 🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night           █████████░░░░░░░░░░░░░░░░   36.01% 
 ```
+
+### 💻 My most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicpojska&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+### 📖 My Github stats
+![Samed's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicpojska&count_private=true)  
