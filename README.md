@@ -15,7 +15,7 @@ const safet = {
     pronouns: "He" | "Him",
     bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years
           and completely abandoned it because I wanted to study computer science",
-    code: ["Javascript", "C#", "C++", "Java", "NodeJS"],
+    code: ["Javascript", "C#", "NodeJS"],
     askMeAbout: ["web dev", "tech", "video games", "full-stack"],
     technologies: {
         frontEnd: {
@@ -23,7 +23,7 @@ const safet = {
             css: ["Tailwind", "MaterialUI", "bootstrap", "SCSS"]
         },
         backEnd: {
-            js: ["node", "express", "spring boot"],
+            js: ["node", ".net"],
         },
         databases: ["mongo", "MySql", "MSSQL"],
         misc: ["Firebase", "Strapi", "OAuth", "Git"]
@@ -36,16 +36,19 @@ const safet = {
 
 ---
 
-**I'm a late night coder** 
-
 ```text
+🌞 Morning         ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+🌆 Daytime         █████████░░░░░░░░░░░░░░░░   36.01%
+🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   30.55% 
+🌙 Night           █████░░░░░░░░░░░░░░░░░░░░   25.08% 
+```
 🌞 Morning         ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 🌆 Daytime         ██████░░░░░░░░░░░░░░░░░░░   25.08% 
 🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night           █████████░░░░░░░░░░░░░░░░   36.01% 
-```
+
 
 ### 💻 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicpojska&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 ### 📖 My Github stats
-![Samed's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicpojska&count_private=true)  
+![Safet's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicpojska&count_private=true)  
