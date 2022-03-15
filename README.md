@@ -23,9 +23,9 @@ const safet = {
             css: ["Tailwind", "MaterialUI", "bootstrap", "SCSS"]
         },
         backEnd: {
-            js: ["node", ".net"],
+            js: ["node", "spring boot"],
         },
-        databases: ["mongo", "MySql", "MSSQL"],
+        databases: ["mongo", "PostgreSQL", "MySql", "MSSQL"],
         misc: ["Firebase", "Strapi", "OAuth", "Git"]
     },
     funFact: "The first computer “bug” was an actual real-life bug"
