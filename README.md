@@ -5,8 +5,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/magicpojska?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrpojskic/)](https://www.linkedin.com/in/mrpojskic/)
-![GitHub followers](https://img.shields.io/github/followers/MagicPojska?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=MagicPojska.MagicPojska)
+![GitHub followers](https://img.shields.io/github/followers/spojskic?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=spojskic.spojskic)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -45,6 +45,6 @@ const safet = {
 
 
 ### 💻 My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicpojska&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spojskic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 ### 📖 My Github stats
-![Safet's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicpojska&count_private=true)  
+![Safet's GitHub stats](https://github-readme-stats.vercel.app/api?username=spojskic&count_private=true)  
