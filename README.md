@@ -37,14 +37,16 @@ const safet = {
 ---
 
 ```text
-🌞 Morning         ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-🌆 Daytime         █████████░░░░░░░░░░░░░░░░   36.01%
-🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   30.55% 
-🌙 Night           █████░░░░░░░░░░░░░░░░░░░░   25.08% 
+🌞 Morning         █████████░░░░░░░░░░░░░░░░   36.00%
+🌆 Daytime         █████████░░░░░░░░░░░░░░░░   36.00%
+🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   24.00% 
+🌙 Night           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00% 
 ```
 
 
 ### 💻 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spojskic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 ### 📖 My Github stats
-![Safet's GitHub stats](https://github-readme-stats.vercel.app/api?username=spojskic&count_private=true)  
+
+<a href="https://safetpojskic.com"><img src="https://streak-stats.demolab.com/?user=spojskic" width="50%"></a>
+
