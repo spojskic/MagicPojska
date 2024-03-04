@@ -3,7 +3,7 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/magicpojska?label=Follow)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmagicpojska)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrpojskic/)](https://www.linkedin.com/in/mrpojskic/)
 ![GitHub followers](https://img.shields.io/github/followers/spojskic?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=spojskic.spojskic)
